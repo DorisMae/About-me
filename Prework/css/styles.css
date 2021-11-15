@@ -1,0 +1,77 @@
+<style type="text/css">
+		body{text-align: center;}
+		a{font-size:18pt;
+			text-decoration-color: purple}
+
+
+	#favoritelist{
+		color:blue;
+	}
+
+	#favoritejams{color:orange;
+
+	}
+
+#div1{background-color:yellow;
+
+}
+#div2{background-color:green;
+}
+#div3{background-color:blue;
+}
+#div4{background-color:red;
+}
+#div5{background-color:silver;
+}
+#div1, #div2, #div3, #div4, #div5 {border:solid;}
+
+span{
+	color:Yellow
+	font-size:35;
+	font-family:cursive;
+}
+
+
+	</style>
+
+
+
+
+
+
+<style type="text/css">
+	body{background-color: maroon;
+	}
+h2{
+	text-decoration: underline;
+	font-size:55pt;
+}
+
+h3{font-size:40pt;
+
+}
+
+p{
+	font-size: : 16pt
+}
+ol{
+	font-style: italic;
+}
+
+.favoritelist{text-decoration: underline;}
+
+form{padding: 15px;
+	background-color:purple;
+	font-style: italic;
+	border-style: solid;
+	font-weight:900px;
+
+}
+input [type=button]{
+	color:black;
+	background-color: rgb(0,200,0);
+	padding:5px;
+}
+
+
+</style>
